@@ -11,3 +11,14 @@ CareerFoundry has provided the following datasets to use in the project:
 + products
 + customers
 + departments
+
+## Tools used
+I used Python within the Anaconda Navigator software environment, primarily utilizing Jupyter Notebook along with the pandas and NumPy libraries.
+
+## Folders Structure
+The organization of the basket analysis involved categorizing the folders it into the following directories:
++ 01 Project Management: Includes the Project Brief document.
++ 02 Data: Subdivided into Original and Prepared Data, housing the unaltered data frames and the cleaned, analysis-ready data frames, respectively. Note: This folder is excluded on Github due to its size.
++ 03 Scripts: Comprises all Python codes utilized throughout the analysis.
++ 04 Analysis: Encompasses the visualizations utilized for generating insights and for presentation in the final report.
++ 05 Sent to client: Stores the Final Report in Excel format.
